@@ -1,0 +1,20 @@
+{
+    "Author": "Eli Fisher",
+    "ContentSize": 3018,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-sql-database-daily-database-restore-to-copy-database/master/Set-DailyDatabaseRestore.ps1",
+    "DownloadCount": 4016,
+    "Id": "Azure-SQL-Database-Daily-cbd4f15d",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 78,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-3-11T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "The purpose of this PowerShell workflow is to demonstrate how to programatically refresh a copy of database with data from the previous day.",
+    "Title": "Azure SQL Database: Daily Database Restore to Copy Database",
+    "UpdatedDate": "2015-3-11T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-sql-database-daily-database-restore-to-copy-database",
+    "UserTags": "Restore, Windows Azure SQL Database, PowerShell Workflow"
+}
